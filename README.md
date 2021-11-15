@@ -1,18 +1,23 @@
+```c#
+using System;
 
-<!--
-**Exodus-20-2/Exodus-20-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-                                            ╔══════════════════════════════════════════════════════════════════╗
-                                            ║         :zzz: Just Your Average Software Developer :zzz:         ║
+namespace Exodus_Info
+{
+  class Program
+  {
+    static void Main(string[] Args)
+    {
+      Console.WriteLine("✨ Welcome To My Profile ✨");
+      Console.WriteLine("⚡ Just Your Average Software Developer ⚡");
+      Console.WriteLine("🔭 Im Fluent In 2 Languages [C#, Python] 🔭"); //And Know 6 [C#, Python, JS, PHP, C++, Lua]
+      Console.WriteLine("🔭 Beginner In Reverse Engeneering & Pentesting 🔭");
+      Console.WriteLine("🔭 Currently Working On 2 Projects [Python Obfuscator, Licensing Service] 🔭");
+      Console.WriteLine("🔥 Planning On Releasing A Few Free Projects From Time To Time 🔥")
+      Console.WriteLine("🔥 Feel Free To Stick Around And Use Anything I Release 🔥")
+      
+      Console.WriteLine("❄️ Stay Frosty ❄️")
+    }
+  }
+}
+```
 
