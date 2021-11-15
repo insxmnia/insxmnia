@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-:zzz: Just Your Average Software Developer :zzz:
+                                            ╔══════════════════════════════════════════════════════════════════╗
+                                            ║         :zzz: Just Your Average Software Developer :zzz:         ║
 
