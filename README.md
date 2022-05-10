@@ -11,7 +11,7 @@ namespace Exodus_Info
       Console.WriteLine("⚡ Just Your Average Software Developer ⚡");
       Console.WriteLine("🔭 Im Fluent In 2 Languages [C#, Python] 🔭"); //And Know 6 [C#, Python, JS, PHP, C++, Lua]
       Console.WriteLine("🔭 Beginner In Reverse Engineering & Pentesting 🔭");
-      Console.WriteLine("🔭 Currently Working On 2 Projects [Python Obfuscator, Licensing Service] 🔭");
+      Console.WriteLine("🔭 Currently Working On 2 Projects [Trading and Escrow Service, Licensing Service] 🔭");
       Console.WriteLine("🔥 Planning On Releasing A Few Free Projects From Time To Time 🔥");
       Console.WriteLine("🔥 Feel Free To Stick Around And Use Anything I Release 🔥");
       
