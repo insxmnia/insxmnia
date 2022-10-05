@@ -18,7 +18,7 @@
 <hr>
 <h3 align="center">⚡ Socials ⚡</h3>
 <p align="center">
-	<a href="https://discordapp.com/users/858682503869759508">
+	<a href="https://discordapp.com/users/376773570359197707">
 		<img src="https://cdn.discordapp.com/attachments/1014920723988492378/1027219884754616382/Discord-White.svg">
 	</a>
 </p>
