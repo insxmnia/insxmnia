@@ -1,23 +1,17 @@
-```c#
-using System;
+<h1 align="center">✨ Welcome To My Profile ✨</h1>
+<h3 align="center">⚡ Just Your Average Software Developer And Cyber Security Enthusiast⚡</h3>
+<h5 align="center">🔭 Owner Of Astro Solutions (https://astro.rest/) Still WIP 🔭</h5>
 
-namespace Exodus_Info
-{
-  class Program
-  {
-    static void Main(string[] Args)
-    {
-      Console.WriteLine("✨ Welcome To My Profile ✨");
-      Console.WriteLine("⚡ Just Your Average Software Developer ⚡");
-      Console.WriteLine("🔭 Im Fluent In 2 Languages [C#, Python] 🔭"); //And Know 6 [C#, Python, JS, PHP, C++, Lua]
-      Console.WriteLine("🔭 Beginner In Reverse Engineering & Pentesting 🔭");
-      Console.WriteLine("🔭 Currently Working On 2 Projects [Trading and Escrow Service, Licensing Service] 🔭");
-      Console.WriteLine("🔥 Planning On Releasing A Few Free Projects From Time To Time 🔥");
-      Console.WriteLine("🔥 Feel Free To Stick Around And Use Anything I Release 🔥");
-      
-      Console.WriteLine("❄️ Stay Frosty ❄️");
-    }
-  }
-}
-```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=insxmnia&label=Profile%20views&color=0e75b6&style=flat" alt="insxmnia" /> </p>
 
+
+<h3 align="center">Main Languages:</h3>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnia&show_icons=true&locale=en&layout=compact" alt="insxmnia" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=insxmnia&show_icons=true&locale=en" alt="insxmnia" /></p>
