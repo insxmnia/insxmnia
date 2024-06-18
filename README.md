@@ -11,7 +11,7 @@
 </p>
 <h3 align="center">⚡ Currently Learning ⚡</h3>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/cplusplus-original.svg" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>
 </p>
 
