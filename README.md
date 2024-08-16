@@ -13,7 +13,10 @@
 
 ###
 
-- 🔭 **Current & Past Projects**: `Psychological Horror Game (Unity)` `HEIC Converter (Go)` `Home Network Webportal (T3)` 
+- 🔭 **Current & Past Projects**
+  - `Psychological Horror Game (Unity)`
+  - `HEIC Converter (Go)`
+  - `Home Network Webportal (T3)` 
 
 ###
 
