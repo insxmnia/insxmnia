@@ -13,14 +13,13 @@
 
 ###
 
-- 🔭 **Current & Past Projects**
-  - `Psychological Horror Game (Unity)`
-  - `HEIC Converter (Go)`
-  - `Home Network Webportal (T3)` 
+- 🔭 **Current & In-Progress Projects**
+  - [x] `Cloudflare DDNS (Go)`
+  - [ ] `Homelab Web-Portal (React, TS, Auth.js, Tailwind, DrizzleOrm, Next.js, Turso, Go)`
 
 ###
 
-- 📫 **Want to reach me?** `insonmnia@neuron.icu`
+- 📫 **Want to reach me?** `Unfortunatly my email address is currently unavailable`
 
 ###
 
