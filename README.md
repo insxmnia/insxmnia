@@ -13,7 +13,7 @@
 
 ###
 
-- 🔭 **Current & In-Progress Projects**
+- 🔭 **Current Projects**
   - [x] `Cloudflare DDNS (Go)`
   - [ ] `Homelab Web-Portal (React, TS, Auth.js, Tailwind, DrizzleOrm, Next.js, Turso, Go)`
 
