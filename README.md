@@ -9,13 +9,14 @@
 
 ###
 
-<h2 align="center">Hey there 👋 make yourself comfortable</h2>
+<h2 align="center">Hi there 👋 make yourself comfortable</h2>
 
 ###
 
 - 🔭 **Current Projects**
   - [x] `Cloudflare DDNS (Go)`
   - [ ] `Homelab Web-Portal (React, TS, Auth.js, Tailwind, DrizzleOrm, Next.js, Turso, Go)`
+  - [ ] `Neuron (Homelab IaC)` 
 
 ###
 
