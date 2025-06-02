@@ -15,12 +15,13 @@
 
 - 🔭 **Current Projects**
   - [x] `Cloudflare DDNS (Go)`
-  - [ ] `Homelab Web-Portal (React, TS, Auth.js, Tailwind, DrizzleOrm, Next.js, Turso, Go)`
-  - [ ] `Neuron (Homelab IaC)` 
+  - [ ] `Swipr (Expo + T3 Stack)`
+  - [ ] `Home Server Infrastructure`
+  - [ ] `Full Website with Mini CRM` 
 
 ###
 
-- 📫 **Want to reach me?** `Unfortunatly my email address is currently unavailable`
+- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://me.insx.cc/contact)
 
 ###
 
