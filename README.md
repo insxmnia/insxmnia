@@ -15,9 +15,9 @@
 
 - 🔭 **Current Projects**
   - [x] `Cloudflare DDNS (Go)`
-  - [ ] `Swipr (Expo + T3 Stack)`
-  - [ ] `Home Server Infrastructure`
-  - [ ] `Full Website with Mini CRM` 
+  - [ ] `Swipr (Expo + T3 Stack)(Mobile App)`
+  - [ ] `Home Server Infrastructure (Automatic app deployment, server management panel and more)`
+  - [ ] `Mini CRM` 
 
 ###
 
