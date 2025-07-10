@@ -7,25 +7,32 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=insxmnia.insxmnia&right_color=coral&left_text=Total%20Stalkers"  />
 </div>
 
+###    
+
+<div align="center">
+  <strong>Hi there 👋 make yourself comfortable</strong>
+  <br>
+  Just a full-stack software engineer 🧑‍💻 crafting web 🌐 & mobile 📱 apps, backend systems ⚙️, and self-hosted tools 🏗️. Always learning 📚, always building 🛠️ — navigating the ever-evolving tech landscape with curiosity 🔍 and caffeine ☕️.
+</div>
+
+---
+
 ###
 
-<h2 align="center">Hi there 👋 make yourself comfortable</h2>
-
-###
-
-- 🔭 **Current Projects**
+- 🔭 **What I'm working on.**
   - [x] `Cloudflare DDNS (Go)`
-  - [ ] `Swipr (Expo + T3 Stack)(Mobile App)`
-  - [ ] `Home Server Infrastructure (Automatic app deployment, server management panel and more)`
-  - [ ] `Mini CRM` 
+  - [ ] `Swipr (Expo + T3 Stack)(mobile App)`
+  - [ ] `Home Server Infrastructure (automatic app deployment, server management panel and more)`
+  - [ ] `Zero CRM (open-source mini crm solution) ---> Public once ready for init release`
+  
 
 ###
 
-- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://me.insx.cc/contact)
+- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/contact)
 
 ###
 
-<h5 align="center">Check out my repos for anything you might want and might not want, it will look a tad empty at the moment though</h5>
+<h5 align="center">Check out my repos for anything you might want and might not want, it will look a tad empty at the moment though.</h5>
 
 ###
 
