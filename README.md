@@ -21,9 +21,10 @@
 
 - 🔭 **What I'm working on.**
   - [x] `Cloudflare DDNS (Go)`
-  - [ ] `Swipr (Expo + T3 Stack)(mobile App)`
+  - [ ] `Swipr (Expo + T3 Stack)(Mobile App)`
   - [ ] `Home Server Infrastructure (automatic app deployment, server management panel and more)`
   - [ ] `Zero CRM (open-source mini crm solution) ---> Public once ready for init release`
+  - [ ] `REMx (Resource & Environment Manager CLI)(Go)`
   
 
 ###
