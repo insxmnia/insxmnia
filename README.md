@@ -12,7 +12,9 @@
 <div align="center">
   <strong>Hi there 👋 make yourself comfortable</strong>
   <br>
-  Just a full-stack software engineer 🧑‍💻 crafting web 🌐 & mobile 📱 apps, backend systems ⚙️, and self-hosted tools 🏗️. Always learning 📚, always building 🛠️ — navigating the ever-evolving tech landscape with curiosity 🔍 and caffeine ☕️.
+Just a full-stack software engineer, fueled by coffee ☕ and minimal sleep, building robust backend systems 🛠️, architecting scalable infrastructure 🏗️, designing user-friendly web apps 🌐, and constantly expanding my knowledge through pure determination and trial and error.  <br>
+  <br>
+  Also ... I like nature? (hiking) 🗻🏔️
 </div>
 
 ---
@@ -20,16 +22,13 @@
 ###
 
 - 🔭 **What I'm working on.**
-  - [x] `Cloudflare DDNS (Go)`
-  - [ ] `Swipr (Expo + T3 Stack)(Mobile App)`
-  - [ ] `Home Server Infrastructure (automatic app deployment, server management panel and more)`
-  - [ ] `Zero CRM (open-source mini crm solution) ---> Public once ready for init release`
+  - [ ] `ADMMI (Application Deployment, Management & Monitoring Infrastructure)`   
   - [ ] `REMx (Resource & Environment Manager CLI)(Go)`
   
 
 ###
 
-- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/contact)
+- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/)
 
 ###
 
