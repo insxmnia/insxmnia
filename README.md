@@ -21,9 +21,8 @@ Just a full-stack software engineer, fueled by coffee ☕ and minimal sleep, bui
 
 ###
 
-- 🔭 **What I'm working on.**
-  - [ ] `ADMMI (Application Deployment, Management & Monitoring Infrastructure)`   
-  - [ ] `REMx (Resource & Environment Manager CLI)(Go)`
+- 🔭 **Current Projects:** 
+  - [ ] `Foundry (Application Deployment & Management Infrastructure)`
   
 
 ###
