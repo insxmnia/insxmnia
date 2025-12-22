@@ -12,7 +12,7 @@
 <div align="center">
   <strong>Hi there 👋 make yourself comfortable</strong>
   <br>
-Just a full-stack software engineer, fueled by coffee ☕ and minimal sleep, building robust backend systems 🛠️, architecting scalable infrastructure 🏗️, designing user-friendly web apps 🌐, and constantly expanding my knowledge through pure determination and trial and error.  <br>
+Just a backend engineer, fueled by coffee and minimal sleep, building robust backend systems, architecting scalable infrastructure  and constantly expanding my knowledge through pure determination and trial and error.  <br>
   <br>
   Also ... I like nature? (hiking) 🗻🏔️
 </div>
