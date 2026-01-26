@@ -13,7 +13,7 @@
 ```go
 // Create a new instance and define needed fields
 k := krystian.NewInstance(
-  krystian.WithName("Krystian Jarosz"),
+  krystian.WithName("Krystian"),
   krystian.WithCurrentTech(string[]{"Go", "TS", "React"}),
   krystian.WithCurrentFocus(string[]{"Backend/Fullstack development", "CICD & DevOps/GitOps", "Infrastructure & observability"}),
   krystian.WithPrivateProjects(string[]{"Foundry", "Keepalive"}),
