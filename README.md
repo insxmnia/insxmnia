@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff6500,100:ff5e00&text=KRYSTIAN&reversal=false&section=header&textBg=false&fontAlign=40&desc=Software%20engineer%20and%20Cyber%20security%20enthusiast&fontAlignY=40&strokeWidth=0&stroke=ffff&fontColor=ffff&fontSize=80&descSize=15&descAlign=44&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff6500,100:ff5e00&text=KRYSTIAN&reversal=false&section=header&textBg=false&fontAlign=40&desc=Fullstack%20Software%20Engineer&fontAlignY=40&strokeWidth=0&stroke=ffff&fontColor=ffff&fontSize=80&descSize=15&descAlign=44&descAlignY=55" />
 </div>
 
 
@@ -7,37 +7,28 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=insxmnia.insxmnia&right_color=coral&left_text=Total%20Stalkers"  />
 </div>
 
-###    
+---
+## 🔥Quick Guide
 
-<div align="center">
-  <strong>Hi there 👋 make yourself comfortable</strong>
-  <br>
-Just a backend engineer, fueled by coffee and minimal sleep, building robust backend systems, architecting scalable infrastructure  and constantly expanding my knowledge through pure determination and trial and error.  <br>
-  <br>
-  Also ... I like nature? (hiking) 🗻🏔️
-</div>
+```go
+// Create a new instance and define needed fields
+k := krystian.NewInstance(
+  krystian.WithName("Krystian Jarosz"),
+  krystian.WithCurrentTech(string[]{"Go", "TS", "React"}),
+  krystian.WithCurrentFocus(string[]{"Backend/Fullstack development", "CICD & DevOps/GitOps", "Infrastructure & observability"}),
+  krystian.WithPrivateProjects(string[]{"Foundry", "Keepalive"}),
+  krystian.WithInterests(string[]{"Home-labbing", "Hiking", "Game Servers & Development"}),
+  krystian.WithFootnote("If you think good architecture is expensive, try bad architecture."),
+)
+// Start instance with default logger
+k.WithLogger(k.Start())
+```
 
 ---
 
-###
+#### 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/contact)
 
-- 🔭 **Current Projects:** 
-  - [ ] `Foundry (Application Deployment & Management Infrastructure)`
-  
-
-###
-
-- 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/)
-
-###
-
-<h5 align="center">Check out my repos for anything you might want and might not want, it will look a tad empty at the moment though.</h5>
-
-###
-
-<h2 align="left"></h2>
-
-###
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -104,7 +95,6 @@ Just a backend engineer, fueled by coffee and minimal sleep, building robust bac
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=insxmnia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=insxmnia&locale=en&mode=daily&theme=slateorange&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
