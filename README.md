@@ -11,17 +11,17 @@
 ## 🔥Quick Guide
 
 ```go
-// Create a new instance and define needed fields
-k := krystian.NewInstance(
-  krystian.WithName("Krystian"),
-  krystian.WithCurrentTech(string[]{"Go", "TS", "React"}),
-  krystian.WithCurrentFocus(string[]{"Backend/Fullstack development", "CICD & DevOps/GitOps", "Infrastructure & observability"}),
-  krystian.WithPrivateProjects(string[]{"Foundry", "Keepalive"}),
-  krystian.WithInterests(string[]{"Home-labbing", "Hiking", "Game Servers & Development"}),
-  krystian.WithFootnote("If you think good architecture is expensive, try bad architecture."),
+// Create a new instance with fields
+self := me.NewInstance(
+  me.WithName("Krystian"),
+  me.WithCurrentTech(string[]{"Go", "TS", "React"}),
+  me.WithCurrentFocus(string[]{"Backend/Fullstack development", "CICD & DevOps/GitOps", "Infrastructure & observability"}),
+  me.WithPrivateProjects(string[]{"Foundry", "Keepalive"}),
+  me.WithInterests(string[]{"Home-labbing", "Hiking", "Game Servers & Development"}),
+  me.WithFootnote("If you think good architecture is expensive, try bad architecture."),
 )
 // Start instance with default logger
-k.WithLogger(k.Start())
+self.WithLogger(self.Start())
 ```
 
 ---
