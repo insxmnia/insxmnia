@@ -26,7 +26,7 @@ self.WithLogger(self.Start())
 
 ---
 
-#### 📫 **Want to reach me?** [*Then follow the mysterious link*](https://krystian.cc/contact)
+#### 📫 **Want to reach me?** [*Then follow the mysterious link*](mailto:contact@krystian.cc)
 
 ---
 
