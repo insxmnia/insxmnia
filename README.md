@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff6500,100:ff5e00&text=KRYSTIAN&reversal=false&section=header&textBg=false&fontAlign=40&desc=Backend%20Focused%20Software%20Engineer&fontAlignY=40&strokeWidth=0&stroke=ffff&fontColor=ffff&fontSize=80&descSize=15&descAlign=44&descAlignY=55" />
+  <img width="1968" height="799" alt="image" src="https://github.com/user-attachments/assets/72191cb8-ac1a-4b1a-8f86-18d0611c515f" />
+
 </div>
 
 
